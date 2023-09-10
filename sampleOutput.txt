@@ -1,0 +1,243 @@
+sample output:
+[
+    {
+        "openTimestamp": "2023-05-28T19:30:00Z",
+        "openPrice": 0.0,
+        "closePrice": 0.0,
+        "highPrice": 0.0,
+        "lowPrice": 0.0,
+        "closeTimestamp": "2023-05-28T19:31:00Z"
+    },
+    {
+        "openTimestamp": "2023-05-28T19:31:00Z",
+        "openPrice": 0.0,
+        "closePrice": 0.0,
+        "highPrice": 0.0,
+        "lowPrice": 0.0,
+        "closeTimestamp": "2023-05-28T19:32:00Z"
+    },
+    {
+        "openTimestamp": "2023-05-28T19:32:00Z",
+        "openPrice": 0.0,
+        "closePrice": 0.0,
+        "highPrice": 0.0,
+        "lowPrice": 0.0,
+        "closeTimestamp": "2023-05-28T19:33:00Z"
+    },
+    {
+        "openTimestamp": "2023-05-28T19:33:00Z",
+        "openPrice": 0.0,
+        "closePrice": 0.0,
+        "highPrice": 0.0,
+        "lowPrice": 0.0,
+        "closeTimestamp": "2023-05-28T19:34:00Z"
+    },
+    {
+        "openTimestamp": "2023-05-28T19:34:00Z",
+        "openPrice": 0.0,
+        "closePrice": 0.0,
+        "highPrice": 0.0,
+        "lowPrice": 0.0,
+        "closeTimestamp": "2023-05-28T19:35:00Z"
+    },
+    {
+        "openTimestamp": "2023-05-28T19:35:00Z",
+        "openPrice": 0.0,
+        "closePrice": 0.0,
+        "highPrice": 0.0,
+        "lowPrice": 0.0,
+        "closeTimestamp": "2023-05-28T19:36:00Z"
+    },
+    {
+        "openTimestamp": "2023-05-28T19:36:00Z",
+        "openPrice": 0.0,
+        "closePrice": 0.0,
+        "highPrice": 0.0,
+        "lowPrice": 0.0,
+        "closeTimestamp": "2023-05-28T19:37:00Z"
+    },
+    {
+        "openTimestamp": "2023-05-28T19:37:00Z",
+        "openPrice": 0.0,
+        "closePrice": 0.0,
+        "highPrice": 0.0,
+        "lowPrice": 0.0,
+        "closeTimestamp": "2023-05-28T19:38:00Z"
+    },
+    {
+        "openTimestamp": "2023-05-28T19:38:00Z",
+        "openPrice": 0.0,
+        "closePrice": 0.0,
+        "highPrice": 0.0,
+        "lowPrice": 0.0,
+        "closeTimestamp": "2023-05-28T19:39:00Z"
+    },
+    {
+        "openTimestamp": "2023-05-28T19:39:00Z",
+        "openPrice": 0.0,
+        "closePrice": 0.0,
+        "highPrice": 0.0,
+        "lowPrice": 0.0,
+        "closeTimestamp": "2023-05-28T19:40:00Z"
+    },
+    {
+        "openTimestamp": "2023-05-28T19:40:00Z",
+        "openPrice": 0.0,
+        "closePrice": 0.0,
+        "highPrice": 0.0,
+        "lowPrice": 0.0,
+        "closeTimestamp": "2023-05-28T19:41:00Z"
+    },
+    {
+        "openTimestamp": "2023-05-28T19:41:00Z",
+        "openPrice": 0.0,
+        "closePrice": 0.0,
+        "highPrice": 0.0,
+        "lowPrice": 0.0,
+        "closeTimestamp": "2023-05-28T19:42:00Z"
+    },
+    {
+        "openTimestamp": "2023-05-28T19:42:00Z",
+        "openPrice": 0.0,
+        "closePrice": 0.0,
+        "highPrice": 0.0,
+        "lowPrice": 0.0,
+        "closeTimestamp": "2023-05-28T19:43:00Z"
+    },
+    {
+        "openTimestamp": "2023-05-28T19:43:00Z",
+        "openPrice": 1101.0,
+        "closePrice": 1101.0,
+        "highPrice": 1101.0,
+        "lowPrice": 1101.0,
+        "closeTimestamp": "2023-05-28T19:44:00Z"
+    },
+    {
+        "openTimestamp": "2023-05-28T19:44:00Z",
+        "openPrice": 1184.0,
+        "closePrice": 1630.0,
+        "highPrice": 1776.0,
+        "lowPrice": 1184.0,
+        "closeTimestamp": "2023-05-28T19:45:00Z"
+    },
+    {
+        "openTimestamp": "2023-05-28T19:45:00Z",
+        "openPrice": 1543.0,
+        "closePrice": 313.0,
+        "highPrice": 1543.0,
+        "lowPrice": 313.0,
+        "closeTimestamp": "2023-05-28T19:46:00Z"
+    },
+    {
+        "openTimestamp": "2023-05-28T19:46:00Z",
+        "openPrice": 355.0,
+        "closePrice": 702.0,
+        "highPrice": 702.0,
+        "lowPrice": 355.0,
+        "closeTimestamp": "2023-05-28T19:47:00Z"
+    },
+    {
+        "openTimestamp": "2023-05-28T19:47:00Z",
+        "openPrice": 747.0,
+        "closePrice": 1109.0,
+        "highPrice": 1109.0,
+        "lowPrice": 747.0,
+        "closeTimestamp": "2023-05-28T19:48:00Z"
+    },
+    {
+        "openTimestamp": "2023-05-28T19:48:00Z",
+        "openPrice": 1085.0,
+        "closePrice": 995.0,
+        "highPrice": 1101.0,
+        "lowPrice": 995.0,
+        "closeTimestamp": "2023-05-28T19:49:00Z"
+    },
+    {
+        "openTimestamp": "2023-05-28T19:49:00Z",
+        "openPrice": 957.0,
+        "closePrice": 567.0,
+        "highPrice": 1547.0,
+        "lowPrice": 563.0,
+        "closeTimestamp": "2023-05-28T19:50:00Z"
+    },
+    {
+        "openTimestamp": "2023-05-28T19:50:00Z",
+        "openPrice": 559.0,
+        "closePrice": 562.0,
+        "highPrice": 577.0,
+        "lowPrice": 559.0,
+        "closeTimestamp": "2023-05-28T19:51:00Z"
+    },
+    {
+        "openTimestamp": "2023-05-28T19:51:00Z",
+        "openPrice": 559.0,
+        "closePrice": 562.0,
+        "highPrice": 577.0,
+        "lowPrice": 559.0,
+        "closeTimestamp": "2023-05-28T19:51:00Z"
+    },
+    {
+        "openTimestamp": "2023-05-28T19:52:00Z",
+        "openPrice": 559.0,
+        "closePrice": 562.0,
+        "highPrice": 577.0,
+        "lowPrice": 559.0,
+        "closeTimestamp": "2023-05-28T19:52:00Z"
+    },
+    {
+        "openTimestamp": "2023-05-28T19:53:00Z",
+        "openPrice": 559.0,
+        "closePrice": 562.0,
+        "highPrice": 577.0,
+        "lowPrice": 559.0,
+        "closeTimestamp": "2023-05-28T19:53:00Z"
+    },
+    {
+        "openTimestamp": "2023-05-28T19:54:00Z",
+        "openPrice": 559.0,
+        "closePrice": 562.0,
+        "highPrice": 577.0,
+        "lowPrice": 559.0,
+        "closeTimestamp": "2023-05-28T19:54:00Z"
+    },
+    {
+        "openTimestamp": "2023-05-28T19:55:00Z",
+        "openPrice": 559.0,
+        "closePrice": 562.0,
+        "highPrice": 577.0,
+        "lowPrice": 559.0,
+        "closeTimestamp": "2023-05-28T19:55:00Z"
+    },
+    {
+        "openTimestamp": "2023-05-28T19:56:00Z",
+        "openPrice": 559.0,
+        "closePrice": 562.0,
+        "highPrice": 577.0,
+        "lowPrice": 559.0,
+        "closeTimestamp": "2023-05-28T19:56:00Z"
+    },
+    {
+        "openTimestamp": "2023-05-28T19:57:00Z",
+        "openPrice": 559.0,
+        "closePrice": 562.0,
+        "highPrice": 577.0,
+        "lowPrice": 559.0,
+        "closeTimestamp": "2023-05-28T19:57:00Z"
+    },
+    {
+        "openTimestamp": "2023-05-28T19:58:00Z",
+        "openPrice": 559.0,
+        "closePrice": 562.0,
+        "highPrice": 577.0,
+        "lowPrice": 559.0,
+        "closeTimestamp": "2023-05-28T19:58:00Z"
+    },
+    {
+        "openTimestamp": "2023-05-28T19:59:00Z",
+        "openPrice": 559.0,
+        "closePrice": 562.0,
+        "highPrice": 577.0,
+        "lowPrice": 559.0,
+        "closeTimestamp": "2023-05-28T19:59:00Z"
+    }
+]

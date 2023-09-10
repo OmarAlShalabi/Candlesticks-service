@@ -1,0 +1,5 @@
+partner-service:
+  port: 8032
+  instruments-endpoint: "/instruments"
+  quotes-endpoint: "/quotes"
+  connection-timeout-millis: 50000

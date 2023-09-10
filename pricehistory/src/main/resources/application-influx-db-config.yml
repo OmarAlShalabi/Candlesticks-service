@@ -1,0 +1,17 @@
+influx-db-config:
+  host: "localhost"
+  port: 8086
+  bucket-name: "candlesticks"
+  bucket-token: "kx4pKmCkDCHV2oA31wn3P1Yjo5LwflXary6QXuW2jO-Y1IaqU_fc7fPn78cfbFMsuSI6qJXVmfTNR7m5ZWxvZw=="
+
+influx-db-measurements:
+  instruments:
+    measurment: instruments-data
+  quotes:
+    measurment: quotes-data
+
+influx-db-write-options:
+  batch-size: 500
+  flush-Interval: 1000
+  buffer-limit: 1000
+  jitterInterval: 500
